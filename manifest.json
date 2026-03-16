@@ -1,0 +1,6 @@
+{
+  "version": "1.2",
+  "build": 210,
+  "bin_url": "PASTE_BIN_URL_HERE",
+  "notes": "Первый OTA релиз для RKGNSS"
+}
