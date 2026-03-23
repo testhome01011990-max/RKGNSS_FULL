@@ -1,6 +1,6 @@
 {
   "version": "1.4",
   "build": 14,
-  "bin_url": "https://github.com/testhome01011990-max/RKGNSS_FULL/releases/download/v1.3/RKGNSS_full_v.1.4.ino.bin",
+  "bin_url": "https://github.com/testhome01011990-max/RKGNSS_FULL/releases/download/v1.4/RKGNSS_full_v.1.4.ino.bin",
   "notes": "wifi режим работет до 10Гц при отправке NMEA. обновлена логика smartmask. отображение выбранных действий на странице команды"
 }
